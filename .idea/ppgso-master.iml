@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/gl_projection/gl_projection.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/PPGSO4WEEK/PPGSO4WEEK.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Projekt/sub_player.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Projekt/space.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Projekt/cup.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Projekt/explosion.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Projekt/sub_player.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Projekt/explosion.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Projekt/space.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Projekt/projectile.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Projekt/object.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Projekt/gl_scene.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Projekt/scene.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Projekt/player.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Projekt/scene.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Projekt/generator.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Projekt/object.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Projekt/camera.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Projekt/generator.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Projekt/asteroid.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Projekt/projectile.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Projekt/cup.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Projekt/player.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Projekt/camera.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Projekt/asteroid.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/motko_projekt/camera/camera.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/motko_projekt/camera/camera.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/motko_projekt/scene.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/motko_projekt/projekt_main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/motko_projekt/scene_objects/Artillery.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/motko_projekt/scene_objects/explosion.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/motko_projekt/scene_objects/Number.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/motko_projekt/scene_objects/explosion.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/motko_projekt/scene_objects/object.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/motko_projekt/scene_objects/ArtilleryShell.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/motko_projekt/scene_objects/Terrain.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/motko_projekt/scene_objects/object.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/motko_projekt/scene_objects/Terrain.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/motko_projekt/scene_objects/ArtilleryCannon.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/motko_projekt/scene_objects/ArtilleryCannon.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/motko_projekt/scene_objects/Text.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/motko_projekt/scene_objects/Number.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/motko_projekt/scene_objects/Target.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/motko_projekt/scene_objects/Target.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/motko_projekt/scene_objects/ArtilleryShell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/motko_projekt/scene_objects/Artillery.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/motko_projekt/scene_objects/Text.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/motko_projekt/scene.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lib/shader.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lib/mesh.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lib/mesh.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lib/tiny_obj_loader.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lib/texture.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lib/texture.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lib/shader.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lib/tiny_obj_loader.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gl_scene/sub_player.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gl_scene/space.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gl_scene/asteroid.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gl_scene/sub_player.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gl_scene/explosion.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gl_scene/generator.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gl_scene/projectile.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gl_scene/object.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gl_scene/gl_scene.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gl_scene/scene.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gl_scene/player.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gl_scene/scene.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gl_scene/generator.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gl_scene/explosion.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gl_scene/camera.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gl_scene/space.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gl_scene/projectile.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gl_scene/object.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gl_scene/player.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gl_scene/camera.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gl_scene/asteroid.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gl_animate/gl_animate.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/learn_opengl/Getting_started/1_creating_window.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/learn_opengl/Getting_started/2_hello_trialngle.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gl_gradient/gl_gradient.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/raw_gradient/raw_gradient.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gl_framebuffer/gl_framebuffer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gl_transform/gl_transform.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gl_mesh/gl_mesh.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/PPGSO8WEEK/gl_ppgso8week.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/PPGSO7WEEK/ppgso7week.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/PPGSO6WEEK/ppgso6week.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/PPGSO5WEEK/ppgso5week.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/gl_texture/gl_texture.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/PPGSO3WEEK/PPGSO3WEEK.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cmake/shaders.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cmake/FindGLM.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cmake/FindGLFW3.cmake" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file://C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/5.1.0/include" />
+          <root url="file://C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/5.1.0/include-fixed" />
+          <root url="file://C:/TDM-GCC-64/x86_64-w64-mingw32/include" />
+          <root url="file://C:/TDM-GCC-64/include" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/ppgso-master-a499dff9/a499dff9/Release" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/ppgso-master-a499dff9/a499dff9/Debug" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/ppgso-master-a499dff9/a499dff9/MinSizeRel" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/ppgso-master-a499dff9/a499dff9/RelWithDebInfo" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/5.1.0/include" />
+          <root url="file://C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/5.1.0/include-fixed" />
+          <root url="file://C:/TDM-GCC-64/x86_64-w64-mingw32/include" />
+          <root url="file://C:/TDM-GCC-64/include" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/ppgso-master-a499dff9/a499dff9/Release" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/ppgso-master-a499dff9/a499dff9/Debug" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/ppgso-master-a499dff9/a499dff9/MinSizeRel" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/ppgso-master-a499dff9/a499dff9/RelWithDebInfo" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
